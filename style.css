@@ -1,0 +1,13 @@
+	body { 
+  padding-top: 50px; /* Used as a formatting preference. */
+  background-color: #AAAAFF; /* Sets the general website background to a greyish blue.  It seems easier on the eyes to me. */
+	color: #FFFFFF;  /* Sets the font color to white.  I find white on black (see jumbotron comment) is simply easier to read. */
+} 
+.starter-template {
+  padding: 40px 15px;
+  text-align: center; /* Left as-is for the header text, altered in the .html files for the body text */
+}
+.jumbotron
+{
+	background-color: black;  /* Sets the jumbotron box to be black.  Easier to read, see background color comments. */
+}
